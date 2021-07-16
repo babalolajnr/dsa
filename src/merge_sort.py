@@ -55,3 +55,9 @@ def merge(left, right):
         l.append(right[j])
         j+=1
 
+    return l
+
+# alist = [10,30,20,3,5,0,5,7,3,2,10,40,34,23]
+# sort = merge_sort(alist)
+# print("", sort)
+
